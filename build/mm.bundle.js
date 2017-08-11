@@ -65716,7 +65716,7 @@ angular.module('mm.core')
     "wsservice" : "moodle_mobile_app",
     "wsextservice" : "local_mobile",
     "gcmpn": "694767596569",
-    "customurlscheme": "moodlemobile",
+    "customurlscheme": "premierpet",
     "siteurl": "http://www.premierpet.kaptiva.com.br",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
